@@ -1,5 +1,5 @@
 """
-cifar-10 dataset, with support for random labels
+cifar-10 dataset, with support for random labels   nowrap
 """
 import numpy as np
 
